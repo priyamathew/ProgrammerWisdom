@@ -1,4 +1,4 @@
-ProgrammerWisdon
+ProgrammerWisdom
 =========
 <br>
 <p>This is meant to be an open source collection of advice, materials, and wisdom.</p>
